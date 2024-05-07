@@ -16,7 +16,7 @@ export default function Projects() {
             description: 'Directed integration of Express.js, Node.js, MongoDB in a Blood Donation Mobile App project, complemented by React Native. Successfully met tight project deadlines despite initial unfamiliarity.',
             frontend: 'React Native, Expo ',
             backend: 'Express.js, Node.js, MongoDB ',
-            githubLink: 'https://github.com/tharikthajudeen0/BloodDonorApp-ReactNative',
+            githubLink: 'https://github.com/tharikthajudeen0/DONOR-blood-donation-mobile-app',
             projectLink: 'https://www.example.com/task-manager'
         },
         {
@@ -25,16 +25,16 @@ export default function Projects() {
             description: ' Constructed a fundamental portfolio website using HTML, CSS, JavaScript, PHP and MySQL, gaining insight into both frontend and backend intricacies.',
             frontend: 'HTML, CSS, JavaScript',
             backend: 'PHP, MySQL',
-            githubLink: 'https://github.com/tharikthajudeen0/Portfolio-AdminPanel',
+            githubLink: 'https://github.com/tharikthajudeen0/portfolio-website-with-admin-panel',
             projectLink: 'https://www.example.com/portfolio'
         },
         {
             image: Mart,
-            title: 'MERN Mart : E-Commerce Webbsite',
+            title: 'MERN Mart : E-Commerce Website',
             description: 'Introducing MERN Mart It is a very simple e-commerce website developed using the MERN stack. Covering all the basic e-commerce concepts briefly, it offers a straightforward solution for your online shopping needs.',
             frontend: 'React.js',
             backend: 'Express.js, Node.js, MongoDB',
-            githubLink: 'https://github.com/tharikthajudeen0/MERN-Mart-E-commerce',
+            githubLink: 'https://github.com/tharikthajudeen0/MERN-Mart-e-commerce-website',
             projectLink: 'https://www.example.com/e-commerce-app'
         },
     ];
